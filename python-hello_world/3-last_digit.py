@@ -10,3 +10,4 @@ elif last == 0:
     print("List digit of", number, 'is',last, "and is 0")
 else:
     print("List digit of", number, 'is',last, "and is less than 6 and not 0")
+
