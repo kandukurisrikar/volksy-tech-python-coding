@@ -16,4 +16,4 @@ else:
         line = ("Last digit of " + str(number) +
                 " is " + str(last) + " and is less" +
                 " than 6 and not 0") 
-print(line) 
+print(line)
